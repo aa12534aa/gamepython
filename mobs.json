@@ -1,0 +1,1 @@
+{"tower": {"fight": 0, "name": "tower", "attack": 60, "health": 1500, "defense": 30, "range": 3}, "village": {"fight": 0, "name": "village", "attack": 15, "health": 150, "defense": 8, "range": 1}, "boss": {"fight": 0, "name": "boss", "attack": 40, "health": 900, "defense": 20, "range": 2}}

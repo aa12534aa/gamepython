@@ -1,0 +1,1 @@
+{"turn": 1, "p1": {"name": "jack", "attack": 15, "health": 80, "defense": 9, "money": 100, "range": 1, "items": {"gloves": 0, "lhand": 0, "rhand": 0, "chest": 0, "helmet": 0, "boots": 0}}, "p2": {"name": "john", "attack": 30, "health": 60, "defense": 3, "money": 100, "range": 1, "items": {"gloves": 0, "lhand": 0, "rhand": 0, "chest": 0, "helmet": 0, "boots": 0}}}
